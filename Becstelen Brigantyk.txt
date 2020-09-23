@@ -16,7 +16,6 @@ Miközben Shosanna merényletre készül, Raine csapata is akcióba lendül, hog
 
 vágó: Sally Menke
 
-<<<<<<< HEAD
 Díjak:2010 - Oscar-díj - legjobb férfi epizódszereplő (Christoph Waltz)
 2010 - Golden Globe-díj - legjobb férfi epizódszereplő (Christoph Waltz)
 2010 - Oscar-jelölés - legjobb film (Lawrence Bender)
@@ -29,12 +28,10 @@ Díjak:2010 - Oscar-díj - legjobb férfi epizódszereplő (Christoph Waltz)
 2010 - Golden Globe-jelölés - legjobb dráma
 2010 - Golden Globe-jelölés - legjobb rendező (Quentin Tarantino)
 2010 - Golden Globe-jelölés - legjobb forgatókönyv (Quentin Tarantino)
-=======
-<<<<<<< HEAD
+
 trailer: https://www.youtube.com/watch?v=qRYDNWXuip8
-=======
-Díjak:
->>>>>>> 21b14970fdc003c8b066d3bfd313628a954088fa
+
+
 
 helyszínek: franciaország, németország berlin
->>>>>>> fa2832641aee8f511767a8867fc5093f00f11e90
+
