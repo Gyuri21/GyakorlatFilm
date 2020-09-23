@@ -48,4 +48,6 @@ helyszínek: franciaország, németország berlin
 
 Producer: 	Lawrence Bender
 
+Vágók:          Sally Menke
+
 
