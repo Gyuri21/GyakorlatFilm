@@ -16,4 +16,8 @@ Miközben Shosanna merényletre készül, Raine csapata is akcióba lendül, hog
 
 vágó: Sally Menke
 
+<<<<<<< HEAD
 trailer: https://www.youtube.com/watch?v=qRYDNWXuip8
+=======
+Díjak:
+>>>>>>> 21b14970fdc003c8b066d3bfd313628a954088fa
