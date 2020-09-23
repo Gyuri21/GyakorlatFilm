@@ -46,4 +46,6 @@ trailer: https://www.youtube.com/watch?v=qRYDNWXuip8
 
 helyszínek: franciaország, németország berlin
 
+Producer: 	Lawrence Bender
+
 
